@@ -1,3 +1,7 @@
+![image](https://github.com/Benjaminroy2003/Multilingual-speech-recognition-using-RAG-/assets/73574108/6b57c6f1-b0ac-49e7-898e-55855bbe419c)
+
+
+
 1)	Data Loading
 1.	Dataset
 (a)	The RAG Mini BioASQ dataset is a specialized dataset intended for use with retrieval-augmented generation (RAG) models. It comprises passages and questions related to biomedical literature
